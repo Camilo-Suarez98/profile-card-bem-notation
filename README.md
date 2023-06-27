@@ -10,9 +10,7 @@ This is a solution to the Profile Card BEM Notation project of the Make It Real 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -26,6 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile view:
+
+<img width="334" alt="image" src="https://github.com/Camilo-Suarez98/profile-card-bem-notation/assets/68169750/1eb50e89-a7a2-4d07-8131-d1e495288a02">
+
+#### Desktop view:
+
+<img width="679" alt="image" src="https://github.com/Camilo-Suarez98/profile-card-bem-notation/assets/68169750/ebd2be6e-85d1-4983-943b-02a441d4479a">
 
 
 ## My process
